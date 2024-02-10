@@ -27,7 +27,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 
 # UDFPS Animations
-EXTRA_UDFPS_ANIMATIONS := true
+TARGET_HAS_UDFPS := true
 
 PRODUCT_NAME := lineage_bladerunner
 PRODUCT_DEVICE := bladerunner

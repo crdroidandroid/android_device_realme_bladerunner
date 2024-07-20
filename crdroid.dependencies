@@ -1,0 +1,23 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_realme_sm8250-common",
+    "target_path": "device/realme/sm8250-common"
+  },
+  {
+    "repository": "crdroidandroid/android_vendor_realme_bladerunner",
+    "target_path": "vendor/realme/bladerunner"
+  },
+  {
+    "repository": "crdroidandroid/android_vendor_realme-sm8250-common",
+    "target_path": "vendor/realme/sm8250-common"
+  },
+  {
+    "repository": "crdroidandroid/android_kernel_realme_sm8250",
+    "target_path": "kernel/realme/sm8250"
+  },
+  {
+    "repository": "crdroidandroid/android_hardware_oplus",
+    "target_path": "hardware/oplus",
+    "branch": "14.0-bladerunner"
+  }
+]
